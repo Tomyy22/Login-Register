@@ -44,7 +44,7 @@ section{
     border-radius: 1.5rem;
     position: relative;
     width: 25rem;
-    height: 31.125rem;
+    height: 34.125rem;
     backdrop-filter: blur(0.9375rem);
     align-items: center;
     justify-content: center;
@@ -54,6 +54,7 @@ h2{
     color: var(--primary-color);
     font-size: 2rem;
     text-align: center;
+    /* padding-top: 25px; */
 }
 
 .input{
@@ -100,9 +101,6 @@ h2{
     line-height: 3.5625rem;
 }
 
-/* .input:valid{
-
-} */
 
 .recordar{
    display: flex;
@@ -144,6 +142,7 @@ button{
     color: var(--primary-color);
     text-align: center;
     margin: 1.5625rem 0 0.625rem;
+    /* padding-bottom: 25px; */
 }
 
 .register p a{
