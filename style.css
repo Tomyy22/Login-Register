@@ -17,7 +17,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(background.png);
+    background: url(./background.png);
     background-size: cover;
     background-position: center;
     animation: fondo 5s linear infinite;
